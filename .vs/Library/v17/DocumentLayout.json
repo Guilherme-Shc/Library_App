@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Code\\C#\\Exercicios Rocketseat 2\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8558606A-D7D9-4582-BF25-90349D56851B}|Library.Communication\\Library.Communication.csproj|c:\\code\\c#\\exercicios rocketseat 2\\library\\library.communication\\responses\\responsebookjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8558606A-D7D9-4582-BF25-90349D56851B}|Library.Communication\\Library.Communication.csproj|solutionrelative:library.communication\\responses\\responsebookjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8558606A-D7D9-4582-BF25-90349D56851B}|Library.Communication\\Library.Communication.csproj|c:\\code\\c#\\exercicios rocketseat 2\\library\\library.communication\\enums\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8558606A-D7D9-4582-BF25-90349D56851B}|Library.Communication\\Library.Communication.csproj|solutionrelative:library.communication\\enums\\bookgenre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookGenre.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Exercicios Rocketseat 2\\Library\\Library.Communication\\Enums\\BookGenre.cs",
+              "RelativeDocumentMoniker": "Library.Communication\\Enums\\BookGenre.cs",
+              "ToolTip": "C:\\Code\\C#\\Exercicios Rocketseat 2\\Library\\Library.Communication\\Enums\\BookGenre.cs",
+              "RelativeToolTip": "Library.Communication\\Enums\\BookGenre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:10:09.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResponseBookJson.cs",
+              "DocumentMoniker": "C:\\Code\\C#\\Exercicios Rocketseat 2\\Library\\Library.Communication\\Responses\\ResponseBookJson.cs",
+              "RelativeDocumentMoniker": "Library.Communication\\Responses\\ResponseBookJson.cs",
+              "ToolTip": "C:\\Code\\C#\\Exercicios Rocketseat 2\\Library\\Library.Communication\\Responses\\ResponseBookJson.cs",
+              "RelativeToolTip": "Library.Communication\\Responses\\ResponseBookJson.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T00:07:06.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

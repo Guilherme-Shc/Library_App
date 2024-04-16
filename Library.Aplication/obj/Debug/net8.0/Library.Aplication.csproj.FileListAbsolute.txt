@@ -1,0 +1,4 @@
+C:\Code\C#\Exercicios Rocketseat 2\Library\Library.Aplication\obj\Debug\net8.0\Library.Aplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\C#\Exercicios Rocketseat 2\Library\Library.Aplication\obj\Debug\net8.0\Library.Aplication.AssemblyInfoInputs.cache
+C:\Code\C#\Exercicios Rocketseat 2\Library\Library.Aplication\obj\Debug\net8.0\Library.Aplication.AssemblyInfo.cs
+C:\Code\C#\Exercicios Rocketseat 2\Library\Library.Aplication\obj\Debug\net8.0\Library.Aplication.csproj.CoreCompileInputs.cache
